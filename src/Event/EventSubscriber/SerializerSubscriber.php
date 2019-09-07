@@ -4,8 +4,6 @@ declare(strict_types=1);
 
 namespace App\Event\EventSubscriber;
 
-use App\Model\FooModel;
-use App\Model\ModelInterface;
 use JMS\Serializer\EventDispatcher\Events;
 use JMS\Serializer\EventDispatcher\PreDeserializeEvent;
 use JMS\Serializer\EventDispatcher\EventSubscriberInterface;
