@@ -198,6 +198,9 @@
     "symfony/service-contracts": {
         "version": "v1.1.6"
     },
+    "symfony/var-dumper": {
+        "version": "v4.3.4"
+    },
     "symfony/var-exporter": {
         "version": "v4.3.4"
     },
